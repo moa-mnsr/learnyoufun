@@ -4,4 +4,4 @@ The overarching concept is an art project centered around the idea of re-learnin
 
 The first blog, [Film Fog](https://github.com/moa-mnsr/filmfog) will be about films/novels I've seen/read recently - a sort of running journal of what strikes me as exciting at the moent. 
 
-The second, [Simply Sims](https://github.com/moa-mnsr/simply-sims) will be about playing the original Sims, as an adult, in the pandemic.
+The second, [Simply Sims](https://github.com/moa-mnsr/simply-sims), will be about playing the original Sims, as an adult, in the pandemic.
